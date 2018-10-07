@@ -1,16 +1,19 @@
 ---
 description: User Guide For Data Browser
+描述：数据浏览器的用户指南
 ---
 
 # Data Browser User Guide
+# 数据浏览器用户指南
 
 ## Getting Started
-
+## 入门
 To get started with the data browser click the **public** folder
-
+要开始使用数据浏览器，点击 **public** 文件夹
 ![](.gitbook/assets/databrowser_home.png)
 
 Click the green + and you will be able to add folders and apps.
+点击绿色的+号，你能添加文件夹或者App。
 
 ![](.gitbook/assets/databrowser_public.png)
 
